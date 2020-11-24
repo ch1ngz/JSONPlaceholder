@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JSONPlaceholder</string>
+
+    <string name="home_send">Send</string>
+    <string name="home_enter_post_id">Enter Post ID</string>
+    <string name="home_invalid_post">Invalid post. Please, enter another post id</string>
+    <string name="home_invalid_id">Invalid value</string>
+    <string name="home_loading">Loading…</string>
+    <string name="home_title">Home</string>
+
+    <!-- errors -->
+    <string name="error_general_message">Something went wrong, please try again</string>
+</resources>
